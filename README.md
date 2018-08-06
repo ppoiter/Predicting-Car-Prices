@@ -3,6 +3,10 @@ In this project we predict the market value of cars using their technical and ph
 
 Concepts explored: 
 - pandas 
-- data cleaning, features engineering, k-nearest neighbors, hyperparameter tuning, RMSE
+- data cleaning 
+- feature engineering
+- K-NN
+- hyperparameter tuning
+- RMSE
 
-Functions and methods used: .read_csv(), .replace(), .drop(), .astype(), isnull().sum(), .min(), .max(), .mean(), .permutation(), .reindex(), .iloc[], .fit(), .predict(), mean_squared_error(), .Series(), .sort_values(), .plot(), .legend()
+Functions and methods: .read_csv(), .replace(), .drop(), .astype(), isnull().sum(), .min(), .max(), .mean(), .permutation(), .reindex(), .iloc[], .fit(), .predict(), mean_squared_error(), .Series(), .sort_values(), .plot(), .legend()
